@@ -1,0 +1,20 @@
+*{
+    margin: 0px;
+}
+
+#header_ul {
+    background-color: darkblue;
+    color: white;
+    list-style-type: none;
+    text-transform: uppercase;
+}
+#header_ul .h_u_L {
+    padding: 20px 30px;
+    cursor: pointer;
+    display: inline-block;
+}
+
+#header_ul .h_u_L:hover {
+    background-color: white;
+    color: darkblue;
+}
